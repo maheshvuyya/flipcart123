@@ -1,4 +1,5 @@
-//sample programe
+
+//sample program
 
 public class Demo
 {
