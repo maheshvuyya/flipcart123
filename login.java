@@ -10,7 +10,7 @@ public class login
 	int a=10,b=20;
        int c;
           c=a+b;
-   System.out.println(c);
+   System.out.println("Addition for a and b:"+c);
 }
 }
 
