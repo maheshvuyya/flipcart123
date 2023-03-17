@@ -7,7 +7,7 @@ public class login
 	{
 		System.out.println("WELLCOME TO DEVOPS");
               
-	int a=10,b=20,d=100;
+	int a=10,b=20,d=100123;
        int c;
           c=a+b;
    System.out.println("Addition for a and b:"+c);
